@@ -33,7 +33,7 @@ dependencies:
   flutter_boost:
     git:
       url: 'https://github.com/alibaba/flutter_boost.git'
-      ref: 'v3.0-null-safety-preview.11'
+      ref: 'v3.0-null-safety-preview.13'
 
 dev_dependencies:
   flutter_test:
