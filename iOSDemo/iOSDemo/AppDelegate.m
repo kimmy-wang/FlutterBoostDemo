@@ -38,7 +38,7 @@
 
 
     UITabBarController *tabVC = [[UITabBarController alloc] init];
-    tabVC.viewControllers = @[fvc,fvc];
+    tabVC.viewControllers = @[vc,fvc];
 
     
     UINavigationController *rvc = [[UINavigationController alloc] initWithRootViewController:tabVC];
